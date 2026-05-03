@@ -1,0 +1,22 @@
+[submodule "fake_localization_ros2"]
+	path = fake_localization_ros2
+	url = https://github.com/ruipaulorocha/fake_localization_ros2.git
+[submodule "mushr"]
+	path = mushr
+	url = git@github.com:ShritanGopu/mushr.git
+[submodule "mushr-478-the-best-team"]
+	path = mushr-478-the-best-team
+	url = git@github.com:dbzfan2012/MuSHR-ROS2-Class-Code.git
+[submodule "numpy_ndarray_msgs"]
+	path = numpy_ndarray_msgs
+	url = https://github.com/Geson-anko/numpy_ndarray_msgs.git
+[submodule "transport_drivers"]
+	path = transport_drivers
+	url = https://github.com/ros-drivers/transport_drivers.git
+[submodule "YDLidar-SDK"]
+	path = YDLidar-SDK
+	url = https://github.com/YDLIDAR/YDLidar-SDK.git
+[submodule "vesc"]
+	path = vesc
+	url = https://github.com/dbzfan2012/vesc_ros2.git
+	branch = ros2_implementation
