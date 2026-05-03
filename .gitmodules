@@ -4,6 +4,7 @@
 [submodule "mushr"]
 	path = mushr
 	url = git@github.com:ShritanGopu/mushr.git
+	branch = working_ROS2
 [submodule "mushr-478-the-best-team"]
 	path = mushr-478-the-best-team
 	url = git@github.com:dbzfan2012/MuSHR-ROS2-Class-Code.git
